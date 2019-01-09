@@ -1,0 +1,8 @@
+CIS*1500,0.5,Intro to Programming,B,
+CIS*1910,0.5,Discrete Structures in Computing I,W,
+CIS*2430,0.5,Object Oriented Programming,F,CIS*2500
+CIS*2500,0.5,Intermediate Programming,W,CIS*1500
+CIS*2520,0.5,Data Structures,F,CIS*2500:CIS*1910
+CIS*2750,0.75,Software Systems Development and Integration,W,CIS*2520:CIS*2430
+CIS*2910,0.5,Discrete Structures in Computing II,F,CIS*1910
+CIS*3530,0.5,Data Base Systems and Concepts,F,CIS*2520
